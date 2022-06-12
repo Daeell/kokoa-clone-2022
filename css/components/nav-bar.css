@@ -1,0 +1,10 @@
+.nav__list {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: #f9f9fa;
+  padding: 19px 0px;
+  border-top: 1px solid rgba(158, 155, 155, 0.3);
+}
