@@ -8,3 +8,19 @@
   padding: 19px 0px;
   border-top: 1px solid rgba(158, 155, 155, 0.3);
 }
+.nav__btn {
+  position: relative;
+}
+.nav__notification {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  background-color: #ff6129;
+  color: white;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  top: -8px;
+  right: -12px;
+  display: flex;
+}
