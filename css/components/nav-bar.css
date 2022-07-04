@@ -8,9 +8,11 @@
   padding: 19px 0px;
   border-top: 1px solid rgba(158, 155, 155, 0.3);
 }
+
 .nav__btn {
   position: relative;
 }
+
 .nav__notification {
   position: absolute;
   width: 25px;

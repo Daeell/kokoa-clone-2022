@@ -5,8 +5,13 @@
   text-align: center;
   font-size: 17px;
   font-weight: 400;
+  margin-bottom: 10px;
 }
 
 #friends-display__link i {
   color: #d5d5d5;
+}
+
+.friends-screen {
+  padding: 0px var(--horizontal-space);
 }
